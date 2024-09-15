@@ -1,7 +1,7 @@
 [submodule "aws-lc-sys/aws-lc"]
 	path = aws-lc-sys/aws-lc
-	url = https://github.com/aws/aws-lc.git
-	branch = main
+	url = https://github.com/oxidecomputer/aws-lc.git
+	branch = illumos/v1.34.2
 [submodule "aws-lc-fips-sys/aws-lc"]
 	path = aws-lc-fips-sys/aws-lc
 	url = https://github.com/aws/aws-lc.git
